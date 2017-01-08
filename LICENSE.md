@@ -1,6 +1,8 @@
-MIT License
+# MIT License
 
-Copyright (c) 2017 Spamty
+Copyright (c) 2017 by 
+[Spamty team](https://github.com/Spamty) &
+[contributors](https://github.com/Spamty/backup/graphs/contributors)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
